@@ -1,0 +1,11 @@
+{
+	"name": "async_adapter",
+	"version": "1.0.0",
+	"description": "asyncify, promisify, callbackify",
+	"main": "1-asyncify.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "GreeD",
+	"license": "ISC"
+}
